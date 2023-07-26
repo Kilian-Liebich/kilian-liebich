@@ -1,6 +1,6 @@
 ### Hi, I’m Kilian 👋👨‍💻
 
-![GitHub Profile Header](http://url/to/img.png)
+![GitHub Profile Header](https://github.com/Kilian-Liebich/kilian-liebich/blob/main/header.png)
 
 <!--
 **Kilian-Liebich/kilian-liebich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
